@@ -1,0 +1,96 @@
+{
+  "background_image_path": "neuro_core/config/styles/light_background.png",
+  "logo_path": "neuro_core/config/styles/logo_light.png",
+  "gradient_label": {
+    "height": "18px",
+    "font-family": "Open Sans",
+    "font-weight": 400,
+    "font-size": "13px",
+    "color": "#7E6C52",
+    "shadow": {
+      "blur": 20,
+      "x_offset": 2,
+      "y_offset": 5,
+      "color": [
+        0,
+        0,
+        0,
+        120
+      ]
+    }
+  },
+  "footer": {
+    "color": "#7E6C52",
+    "font-family": "Open Sans",
+    "font-weight": 600,
+    "font-size": "10px"
+  },
+  "instruction_label": {
+    "font-family": "Open Sans",
+    "font-weight": 400,
+    "font-size": "12px",
+    "color": "#7E6C52",
+    "shadow": {
+      "blur": 20,
+      "x_offset": 2,
+      "y_offset": 5,
+      "color": [
+        0,
+        0,
+        0,
+        120
+      ]
+    }
+  },
+  "download_png_button": {
+    "icon_path": "neuro_core/config/styles/download_light.svg",
+    "text-align": "center",
+    "padding-left": "5px",
+    "padding-right": "7px",
+    "background-color": "qlineargradient(x1:0, y1:0, x2:1, y2:0, stop:0 #8F7652, stop:0.5 #C7B795, stop:1 #816A4A)",
+    "pressed-background-color": "qlineargradient(x1:0, y1:0, x2:1, y2:0, stop:0 #7A6546, stop:0.5 #B19D7C, stop:1 #6C573A)",
+    "hover-background-color": "qlineargradient(x1:0, y1:0, x2:1, y2:0, stop:0 #A8906A, stop:0.5 #D8C8A5, stop:1 #9E8363)",
+    "border-width": "1px",
+    "border-radius": "12px",
+    "color": "#FFF8DC",
+    "font-family": "Open Sans",
+    "font-weight": 400,
+    "font-size": "10px",
+    "border-style": "solid",
+    "border-color": "#816A4A",
+    "shadow": {
+      "blur": 20,
+      "x_offset": 2,
+      "y_offset": 5,
+      "color": [
+        0,
+        0,
+        0,
+        180
+      ]
+    }
+  },
+  "continue_button": {
+    "background-color": "qlineargradient(x1:0, y1:0, x2:1, y2:0, stop:0 #8F7652, stop:0.5 #C7B795, stop:1 #816A4A)",
+    "pressed-background-color": "qlineargradient(x1:0, y1:0, x2:1, y2:0, stop:0 #7A6546, stop:0.5 #B19D7C, stop:1 #6C573A)",
+    "hover-background-color": "qlineargradient(x1:0, y1:0, x2:1, y2:0, stop:0 #A8906A, stop:0.5 #D8C8A5, stop:1 #9E8363)",
+    "border-width": "2px",
+    "border-radius": "20px",
+    "color": "#FFF8DC",
+    "font-family": "Open Sans",
+    "font-weight": 400,
+    "font-size": "17px",
+    "border-style": "solid",
+    "border-color": "#FFEB9C",
+    "shadow": {
+      "blur": 50,
+      "x_offset": 0,
+      "y_offset": 0,
+      "color": [255, 238, 156, 255]
+    }
+  },
+  "qr_code_label": {
+    "background-color": "#ece2ce",
+    "color": "black"
+  }
+}

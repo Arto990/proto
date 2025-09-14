@@ -1,0 +1,26 @@
+[tool.poetry]
+name = "neuro_core"
+version = "0.1.0"
+description = ""
+authors = ["data-tamer2410 <vitaliy.dayneko2410@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "3.12.*"
+langcodes = "^3.5.0"
+mnemonic = "^0.21"
+bcrypt = "^4.3.0"
+qrcode = {extras = ["pil"], version = "^8.2"}
+opencv-python = "^4.11.0.86"
+pyqt6-webengine = "^6.9.0"
+pyqt6 = "^6.9.1"
+pywinctl = "^0.4.1"
+mss = "^10.0.0"
+pynput = "^1.8.1"
+pyqt6-3d = "^6.9.0"
+
+[tool.poetry.dev-dependencies]
+black = "^25.1.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

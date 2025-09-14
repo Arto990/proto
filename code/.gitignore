@@ -1,0 +1,61 @@
+# ----------------------------
+# Python cache and build files
+# ----------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# ----------------------------
+# Virtual environments
+# ----------------------------
+.venv/
+venv/
+env/
+
+# ----------------------------
+# Pytest cache
+# ----------------------------
+/.pytest_cache/
+
+# ----------------------------
+# Jupyter notebooks checkpoints
+# ----------------------------
+.ipynb_checkpoints/
+
+# ----------------------------
+# Databases, logs, temp files
+# ----------------------------
+*.db
+*.sqlite
+*.sqlite3
+*.log
+*.tmp
+
+# ----------------------------
+# Data files (avoid committing local/test data)
+# ----------------------------
+neuro_core/data/*.db
+neuro_core/data/*.log
+neuro_core/data/*.txt
+neuro_core/data/*.csv
+/neuro_core/neuropacks/health/data/
+
+# ----------------------------
+# Office/Docs temporary files
+# ----------------------------
+*.csv~
+*.xlsx~
+*.pdf~
+*.docx
+
+# ----------------------------
+# IDE / Editor settings
+# ----------------------------
+.vscode/
+
+# ----------------------------
+# OS-specific system files
+# ----------------------------
+.DS_Store
+Thumbs.db

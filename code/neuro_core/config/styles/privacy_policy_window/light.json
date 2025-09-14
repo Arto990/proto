@@ -1,0 +1,32 @@
+{
+  "background_image_path": "neuro_core/config/styles/light_background.png",
+  "logo_path": "neuro_core/config/styles/logo_light.png",
+  "privacy_policy_text": {
+    "font-family": "Open Sans",
+    "font-size": "12px",
+    "font-weight": 400,
+    "color": "#7E6C52",
+    "background-color": "transparent",
+    "padding": "5px",
+    "border": "1px solid #816A4A",
+    "border-radius": "12px"
+  },
+"gradient_label": {
+    "height": "18px",
+    "font-family": "Open Sans",
+    "font-weight": 400,
+    "font-size": "13px",
+    "color": "#7E6C52",
+    "shadow": {
+      "blur": 20,
+      "x_offset": 2,
+      "y_offset": 5,
+      "color": [
+        0,
+        0,
+        0,
+        120
+      ]
+    }
+  }
+}

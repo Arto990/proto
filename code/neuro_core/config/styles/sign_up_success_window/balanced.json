@@ -1,0 +1,82 @@
+{
+  "background_image_path": "neuro_core/config/styles/balanced_background.png",
+  "logo_path": "neuro_core/config/styles/logo.png",
+  "success_icon_path": "neuro_core/config/styles/success.svg",
+  "gradient_label": {
+    "height": "18px",
+    "font-family": "Open Sans",
+    "font-weight": 400,
+    "font-size": "13px",
+    "color": "qlineargradient(x1:0, y1:0, x2:0, y2:1, stop:0 #95845A, stop:1 #FBDF97)",
+    "shadow": {
+      "blur": 20,
+      "x_offset": 2,
+      "y_offset": 5,
+      "color": [
+        0,
+        0,
+        0,
+        180
+      ]
+    }
+  },
+  "footer": {
+    "color": "#E0C691",
+    "font-family": "Open Sans",
+    "font-weight": 600,
+    "font-size": "10px"
+  },
+  "success_label": {
+    "font-family": "Open Sans",
+    "font-weight": 600,
+    "font-size": "32px",
+    "color": "#EBDBBD",
+    "shadow": {
+      "blur": 20,
+      "x_offset": 2,
+      "y_offset": 5,
+      "color": [
+        0,
+        0,
+        0,
+        180
+      ]
+    }
+  },
+  "success_text_label": {
+    "font-family": "Open Sans",
+    "font-weight": 400,
+    "font-size": "12px",
+    "color": "#EBDBBD",
+    "shadow": {
+      "blur": 20,
+      "x_offset": 2,
+      "y_offset": 5,
+      "color": [
+        0,
+        0,
+        0,
+        180
+      ]
+    }
+  },
+  "continue_button": {
+    "background-color": "qlineargradient(x1:0, y1:0, x2:1, y2:0, stop:0 #8C6A1F, stop:1 #4C3811)",
+    "pressed-background-color": "qlineargradient(x1:0, y1:0, x2:1, y2:0, stop:0 #A3741A, stop:1 #5A3F14)",
+    "hover-background-color": "qlineargradient(x1:0, y1:0, x2:1, y2:0, stop:0 #A67E2D, stop:1 #5A4115)",
+    "border-width": "2px",
+    "border-radius": "20px",
+    "color": "#EBDBBD",
+    "font-family": "Open Sans",
+    "font-weight": 400,
+    "font-size": "17px",
+    "border-style": "solid",
+    "border-color": "#FFD700",
+    "shadow": {
+      "blur": 70,
+      "x_offset": 0,
+      "y_offset": 0,
+      "color": [255, 215, 0, 255]
+    }
+  }
+}

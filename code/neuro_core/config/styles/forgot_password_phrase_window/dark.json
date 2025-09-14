@@ -1,0 +1,150 @@
+{
+  "background_image_path": "neuro_core/config/styles/dark_background.png",
+  "logo_path": "neuro_core/config/styles/logo.png",
+  "gradient_label": {
+    "height": "18px",
+    "font-family": "Open Sans",
+    "font-weight": 400,
+    "font-size": "13px",
+    "color": "qlineargradient(x1:0, y1:0, x2:0, y2:1, stop:0 #95845A, stop:1 #FBDF97)",
+    "shadow": {
+      "blur": 20,
+      "x_offset": 2,
+      "y_offset": 5,
+      "color": [0, 0, 0, 180]
+    }
+  },
+  "instruction_label": {
+    "font-family": "Open Sans",
+    "font-weight": 400,
+    "font-size": "12px",
+    "color": "#EBDBBD",
+    "shadow": {
+      "blur": 20,
+      "x_offset": 2,
+      "y_offset": 5,
+      "color": [0, 0, 0, 180]
+    }
+  },
+  "footer": {
+    "color": "#E0C691",
+    "font-family": "Open Sans",
+    "font-weight": 600,
+    "font-size": "10px"
+  },
+  "theme_switch": {
+    "container": {
+      "border-width": "1px",
+      "border-radius": "12px",
+      "border-style": "solid",
+      "border-color": "qlineargradient(x1:0, y1:0, x2:1, y2:0, stop:0 #FFD700, stop:0.5 #FFF8DC, stop:1 #DAA520)",
+      "height": "24px",
+      "shadow": {
+        "blur": 20,
+        "x_offset": 2,
+        "y_offset": 5,
+        "color": [0, 0, 0, 180]
+      }
+    },
+    "button": {
+      "height": "16px",
+      "color": "#EBDBBD",
+      "font-family": "Open Sans",
+      "font-weight": 400,
+      "font-size": "8px",
+      "border-radius": "9px",
+      "border-color": "transparent",
+      "hover-background-color": "rgba(120, 120, 120, 0.2)",
+      "checked-color": "#EBDBBD",
+      "checked-background-color": "#282319",
+      "checked-border-color": "qlineargradient(x1:0, y1:0, x2:1, y2:0, stop:0 #FFD700, stop:0.5 #FFF8DC, stop:1 #DAA520)",
+      "checked-border-style": "solid",
+      "padding-left": "5px",
+      "padding-right": "5px"
+    }
+  },
+  "back_button": {
+    "text-align": "center",
+    "background-color": "#282319",
+    "border-width": "1px",
+    "border-radius": "24px",
+    "color": "#EBDBBD",
+    "font-family": "Open Sans",
+    "font-weight": 400,
+    "font-size": "18px",
+    "border-style": "solid",
+    "hover-background-color": "#352A1C",
+    "pressed-background-color": "#3B2F21",
+    "border-color": "qlineargradient(x1:0, y1:0, x2:1, y2:0, stop:0 #FFD700, stop:0.5 #FFF8DC, stop:1 #DAA520)",
+    "shadow": {
+      "blur": 20,
+      "x_offset": 2,
+      "y_offset": 5,
+      "color": [0, 0, 0, 180]
+    }
+  },
+  "error_label": {
+    "color": "#FF3B30",
+    "font-family": "Open Sans",
+    "font-weight": 400,
+    "font-size": "8px"
+  },
+  "phrase_label": {
+  "background-color": "#282319",
+  "border-width": "1px",
+  "border-radius": "16px",
+  "color": "#EBDBBD",
+  "font-family": "Open Sans",
+  "font-weight": 600,
+  "font-size": "12px",
+  "border-style": "solid",
+  "border-color": "qlineargradient(x1:0, y1:0, x2:1, y2:0, stop:0 #FFD700, stop:0.5 #FFF8DC, stop:1 #DAA520)",
+  "error-border-color": "#FF3B30",
+  "shadow": {
+    "blur": 20,
+    "x_offset": 2,
+    "y_offset": 5,
+    "color": [
+      0,
+      0,
+      0,
+      180
+    ]
+  }
+  },
+    "continue_button": {
+    "background-color": "qlineargradient(x1:0, y1:0, x2:1, y2:0, stop:0 #8C6A1F, stop:1 #4C3811)",
+    "pressed-background-color": "qlineargradient(x1:0, y1:0, x2:1, y2:0, stop:0 #A3741A, stop:1 #5A3F14)",
+    "hover-background-color": "qlineargradient(x1:0, y1:0, x2:1, y2:0, stop:0 #A67E2D, stop:1 #5A4115)",
+    "border-width": "2px",
+    "border-radius": "24px",
+    "color": "#EBDBBD",
+    "font-family": "Open Sans",
+    "font-weight": 400,
+    "font-size": "18px",
+    "border-style": "solid",
+    "border-color": "#FFD700",
+    "disabled-hover-background-color": "#555049",
+    "disabled-background-color": "#434343",
+    "disabled-pressed-background-color": "#3F3B35",
+    "disabled-border": "none",
+    "disabled-color": "#8F8F8F",
+    "shadow": {
+      "blur": 70,
+      "x_offset": 0,
+      "y_offset": 0,
+      "color": [255, 215, 0, 255]
+    },
+    "disabled-shadow": {
+      "blur": 20,
+      "x_offset": 2,
+      "y_offset": 5,
+      "color": [
+        0,
+        0,
+        0,
+        180
+      ]
+    }
+  }
+}
